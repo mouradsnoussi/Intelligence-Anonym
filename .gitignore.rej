@@ -1,0 +1,14 @@
+diff a/.gitignore b/.gitignore	(rejected hunks)
+@@ -0,0 +1,12 @@
++
++\.idea/
++
++\.ipynb_checkpoints/
++
++__pycache__/
++
++checkpoint/
++
++samples/
++
++logs/
